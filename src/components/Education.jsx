@@ -58,7 +58,8 @@ function Education(props) {
                   secondary: theme.accentColor,
                   cardBgColor: theme.chronoTheme.cardBgColor,
                   cardForeColor: theme.chronoTheme.cardForeColor,
-                  titleColor: theme.chronoTheme.titleColor,
+                  titleColor: theme.mode === 'dark' ? '#ffffff' : '#000000ffffff',
+                  titleColorActive: theme.mode === 'light' ? '#000000' : '#ffffff',
                 }}
               >
                 <div className="chrono-icons">

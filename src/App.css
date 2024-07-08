@@ -122,7 +122,7 @@ section.timeline-card-content div.card-description > p {
 
   .navbar__link::after {
     background: none;
-    content: "";
+    content: " ";
     display: none;
     margin-top: 0;
     height: 0;

@@ -1,33 +1,24 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Python Intern",
+            "subtitle": "HashCodes Interns",
+            "workType": "Virtual Internship",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Working on Major Tasks provided by them.",
+                "Focused on enhancing my programming skills in Python consistently and effectively."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "June 18, 2024 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Python Intern",
+            "subtitle": "CodSoft",
+            "workType": "Virtual Internship",
             "workDescription": [
-                "Worked on abc."
+                "Completed **3** Major Tasks.",
+                "This internship has allowed me to enhance my programming Spkills in Python and gain practical experience."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "June 5 – July 5, 2024"
         }
     ]
 }

@@ -1,149 +1,100 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/work1.jpg",
+            "title": "To-Do List",
+            "bodyText": "- To-Do List App developed using Python and tkinter\n - A basic app that allows users to add tasks and delete them once completed.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
-            ]
-        },
-        {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/Sumitkatkam/CodSoft-Task-1"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "To-Do List App",
+                "Tkinter Module"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/work2.jpg",
+            "title": "Contact Book Application",
+            "bodyText": "- Contact Book Application developed using Python and tkinter.\n - This application enables users to manage contacts efficiently with features for adding, viewing, searching, updating, and deleting contacts.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/Sumitkatkam/CodSoft-Task-2"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "Contact Book",
+                "Tkinter Module"
+            ]
+        },
+        {
+            "image" : "images/projects/work3.jpg",
+            "title": "Password Generator",
+            "bodyText": "- Password Generator developed using Python and tkinter.\n - Generates passwords based on user-defined length, incorporating a mix of alphabets, numbers, and symbols.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Sumitkatkam/CodSoft-Task-3"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Password Generator",
+                "Tkinter Module"
+            ]
+        },
+        {
+            "image" : "images/projects/work4.jpg",
+            "title": "Hangman Game",
+            "bodyText": "- Developed using Python, this interactive game challenges players to guess a randomly selected word from a list that includes 'apple', 'banana', 'orange', and more.\n - Players have a limited number of attempts to guess letters correctly. Incorrect guesses lead to the gradual drawing of a 'hangman' figure.\n - Guess all letters correctly before running out of attempts to win!.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Sumitkatkam/HashCodes-Task-1"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Random Module"
+            ]
+        },
+        {
+            "image" : "images/projects/work5.jpg",
+            "title": "Password Manager",
+            "bodyText": "- Developed using Python, this secure application allows users to store and manage passwords for various services.\n - Utilizes AES encryption to safeguard passwords, ensuring sensitive data remains protected from unauthorized access.\n - Features an intuitive command-line interface enabling users to add, retrieve, and delete passwords with ease, enhancing user convenience and data security.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Sumitkatkam/HashCodes-Task-3"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Encryption",
+                "Hashing",
+                "User Input Handling"
+            ]
+        },
+        {
+            "image" : "images/projects/work6.jpg",
+            "title": "To-Do List Web Application",
+            "bodyText": "- Built using Python and Flask, this web app enables efficient task management with features for adding, prioritizing, and deleting tasks.\n - Prioritize and manage tasks easily with user-defined priority levels. Add, adjust, and delete tasks via a straightforward form interface.\n - Built-in functionality ensures seamless task management. Users can easily add, delete, and prioritize tasks, enhancing productivity and organization in their daily routines.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Sumitkatkam/HashCodes-Task-4-intermediate"
+                }
+            ],
+            "tags" : [
+                "Python Flask",
+                "Flask Web Application",
+                "Task Management",
+                "CRUD Operations"
             ]
         }
     ]

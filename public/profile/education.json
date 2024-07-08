@@ -1,19 +1,22 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Dec 2021 - Present",
+            "cardTitle": "B.Tech, Information Technology",
+            "cardSubtitle":"A. C. Patil College of Engineering, Kharghar.",
+            "cardDetailedText": "Current CGPA(Till Sem 5)- 8.28"
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Aug 2019- Aug 2021",
+            "cardTitle": " Stream- Computer Science",
+            "cardSubtitle":"Pace Junior Science College, Dadar, Mumbai.",
+            "cardDetailedText": "Percentage- 85%"
+        },
+        {
+            "title": "May 2019",
+            "cardTitle": "SSC",
+            "cardSubtitle":"Dr. Anotnio da Silva High School, Dadar, Mumbai.",
+            "cardDetailedText": "Percentage- 78%"
         }
     ]
 }
