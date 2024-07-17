@@ -100,7 +100,7 @@
         {
             "image" : "images/projects/work7.jpg",
             "title": "Cricket Data Visualization Dashboard",
-            "bodyText": "-Developed an interactive data visualization dashboard using Dash and Plotly for ICC World Cup 2007 Indian team performance.\n - Utilized Python and Pandas for data analysis, data visualization dashboard using Dash and Plotly, ensuring accurate and insightful visual representations.\n - Designed a responsive web application, enhancing user experience with dynamic visualizations.",
+            "bodyText": "- Developed an interactive data visualization dashboard using Dash and Plotly for ICC World Cup 2007 Indian team performance.\n - Utilized Python and Pandas for data analysis, data visualization dashboard using Dash and Plotly, ensuring accurate and insightful visual representations.\n - Designed a responsive web application, enhancing user experience with dynamic visualizations.",
             "links": [
                 {
                     "text": "GitHub",
